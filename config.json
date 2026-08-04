@@ -1,4 +1,122 @@
-{
+{[
+	{
+		"key": "datr",
+		"value": "mbtvahnwNWicD5WMK8m8yWt3",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "sb",
+		"value": "mbtvasgrrnjbNLwDw9Jats8S",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61579344931503",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "xs",
+		"value": "1%3AGSHvRXPl2r5EzQ%3A2%3A1785707541%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "dpr",
+		"value": "2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "pas",
+		"value": "61579344931503%3ApolBYvra1r",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B664x360x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "fr",
+		"value": "0wZivo2dj3NAu8b7K.AWcOKH-3vn-EYj3hIKDGSwoBPsphQgcUJm844Zj4JYtGsrmktyw.Bqb7uZ..AAA.0.0.Bqcasp.AWd1_LPn5wTY6XxZfUAQUrlzeLs",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "100433818%3BT%3A29763904",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3237%3Btimestamp%3A1785834281",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-08-04T09:08:35.436Z",
+		"lastAccessed": "2026-08-04T09:08:35.436Z"
+	}
+]
   "Author": "SHAHADAT SAHU",
   "version": "2.0.1",
   "language": "en",
